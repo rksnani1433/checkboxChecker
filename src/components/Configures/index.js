@@ -16,6 +16,7 @@ const Configures =()=>{
             <label for="rightbar"> leftbar</label><br/>
 
            </form>
+           <button>Enter</button>
 
         </div>
     )
