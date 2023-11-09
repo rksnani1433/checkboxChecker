@@ -1,0 +1,17 @@
+.box-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.AD1{
+    width: 150px;
+    height: 75px;
+    background-color: #b1c4d0;
+    color: rgb(12, 3, 3);
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #05090b;
+    margin: 5px;
+    margin-top: 20px;
+
+}
